@@ -1,4 +1,4 @@
-# From the publication: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00686/full
+From the publication: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00686/full
 
 To estimate the evidence/expected value of apoptosis/signal flux of models in this repository
 
